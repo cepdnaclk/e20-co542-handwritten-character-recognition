@@ -1,0 +1,79 @@
+MIT License
+
+Copyright (c) 2025 Department of Computer Engineering, University of Peradeniya
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## Third-Party Licenses
+
+This project includes or depends on the following third-party software:
+
+### PyTorch
+- License: BSD-3-Clause
+- Copyright: Facebook Inc. and its affiliates
+- Website: https://pytorch.org/
+
+### TensorFlow
+- License: Apache License 2.0
+- Copyright: The TensorFlow Authors
+- Website: https://tensorflow.org/
+
+### NumPy
+- License: BSD-3-Clause
+- Copyright: NumPy Developers
+- Website: https://numpy.org/
+
+### Pillow (PIL)
+- License: PIL Software License
+- Copyright: Alex Clark and Contributors
+- Website: https://python-pillow.org/
+
+### NIST SD19 Dataset
+- License: Public Domain (U.S. Government Work)
+- Source: National Institute of Standards and Technology
+- Website: https://www.nist.gov/srd/nist-special-database-19
+
+The NIST SD19 dataset is in the public domain and freely available for research and commercial use. Users should cite the dataset appropriately in academic publications.
+
+## Attribution
+
+If you use this software in academic research, please cite:
+
+```
+@software{sd19_handwritten_recognition,
+  author = {Department of Computer Engineering, University of Peradeniya},
+  title = {SD19 Handwritten Character Recognition System},
+  year = {2025},
+  url = {https://github.com/cepdnaclk/e20-co542-handwritten-character-recognition}
+}
+```
+
+## Commercial Use
+
+This software is released under the MIT License, which permits commercial use. However, users should be aware of the following:
+
+1. The SD19 dataset is in the public domain and can be used commercially
+2. Some dependencies may have different license terms
+3. Users are responsible for ensuring compliance with all applicable licenses
+
+## Disclaimer
+
+THE SOFTWARE AND DATASET ARE PROVIDED FOR RESEARCH AND EDUCATIONAL PURPOSES. THE AUTHORS MAKE NO WARRANTIES ABOUT THE ACCURACY, RELIABILITY, OR PERFORMANCE OF THE SOFTWARE FOR ANY PARTICULAR USE CASE.
+
+Users should independently verify the performance and suitability of the software for their specific applications.
