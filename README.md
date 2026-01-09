@@ -246,9 +246,6 @@ See `requirements.txt` for complete list with versions.
    - Check that model file is not corrupted
    - Verify image orientation (black text on white background)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
