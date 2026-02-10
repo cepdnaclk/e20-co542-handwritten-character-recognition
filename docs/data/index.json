@@ -1,25 +1,30 @@
 {
     "team": [
         {
-            "name": "Perera K.M.S.",
-            "email": "e20286@eng.pdn.ac.lk",
-            "eNumber": "E/20/286"
-        },
-        {
-            "name": "Peiris T.M.S.U.",
+            "name": "Sandalu Umayanga",
             "email": "e20284@eng.pdn.ac.lk",
-            "eNumber": "E/20/284"
+            "eNumber": "E/20/284",
+            "profile": "https://people.ce.pdn.ac.lk/students/e20/284/"
         },
         {
-            "name": "Dissanayaka D.M.N.H.",
-            "email": "e20078@eng.pdn.ac.lk",
-            "eNumber": "E/20/078"
+            "name": "Milinda Perera",
+            "email": "e20286@eng.pdn.ac.lk",
+            "eNumber": "E/20/286",
+            "profile": "https://people.ce.pdn.ac.lk/students/e20/286/"
         },
         {
             "name": "Sampath K.G.H.",
             "email": "e19490@eng.pdn.ac.lk",
-            "eNumber": "E/19/490"
+            "eNumber": "E/19/490",
+            "profile": "https://people.ce.pdn.ac.lk/students/e19/490/"
+        },
+        {
+            "name": "Nadeeka Dissanayake",
+            "email": "e20078@eng.pdn.ac.lk",
+            "eNumber": "E/20/078",
+            "profile": "https://people.ce.pdn.ac.lk/students/e20/078/"
         }
     ],
-    "tags": ["Neural Networks", "Fuzzy Systems"]
+    "supervisors": [],
+    "tags": ["Neural Networks", "Deep Learning", "Character Recognition", "Computer Vision", "PyTorch", "TensorFlow", "SD19 Dataset", "Handwriting Recognition", "CO542"]
 }
